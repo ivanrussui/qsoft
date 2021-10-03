@@ -24,9 +24,9 @@
 		display: none;
 	}
 	&__form {
-		// width: calc(763 / 1170 * 100%);
-		flex-grow: 1;
-		margin: 0 60px 0 61px;
+		width: calc(763 / 1170 * 100%);
+		// flex-grow: 1;
+		// margin: 0 60px 0 61px;
 	}
 	&__input {
 		cursor: pointer;
